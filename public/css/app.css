@@ -1,0 +1,34 @@
+#container {
+  padding: 5%;
+  font-size: 2em;
+}
+.recipes {
+  padding: 2%;
+  background-color: lightgrey;
+  border-radius: 25px;
+}
+.recipe {
+  padding: 2%;
+  margin: 2%;
+  background-color: lightblue;
+  font-size: 1em;
+  border-style: solid;
+  border-radius: 25px;
+}
+.recipe-btn {
+  margin-bottom: 10px;
+}
+.modal {
+  font-size: 0.5em;
+}
+.item {
+  padding: 2%;
+  margin: 1%;
+  background-color: white;
+  border-color: black;
+  border-style: solid;
+  border-radius: 5px;
+}
+.itemEdit {
+  border-style: None;
+}
