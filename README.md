@@ -2,7 +2,7 @@
 
 Recipe box example using ReactJs
 
-[https://recipe-box.herokuapp.com/](https://recipe-box.herokuapp.com/)
+[https://recipe-box-reactjs.herokuapp.com/](https://recipe-box-reactjs.herokuapp.com/)
 
 ## Requires
 
